@@ -1,0 +1,30 @@
+/**index.wxss**/
+.btn-area {
+  width: 100px;
+  text-align: center;
+  display:block;
+  margin:0 auto;
+  color: #ff8719;
+  flex-direction: column;
+  align-items: center;
+}
+.resetBtn{
+  color:brown;
+  margin-top:10px;
+  background-color: green;
+  justify-content: center;
+}
+.userinfo-avatar {
+  width: 128rpx;
+  height: 128rpx;
+  margin: 20rpx;
+  border-radius: 50%;
+}
+
+.userinfo-nickname {
+  color: #aaa;
+}
+
+.usermotto {
+  margin-top: 200px;
+}
