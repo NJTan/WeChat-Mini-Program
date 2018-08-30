@@ -1,0 +1,12 @@
+{
+  "pages":[
+    "pages/grade/grade"
+    
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "成绩查询",
+    "navigationBarTextStyle":"black"
+  }
+}
